@@ -18,4 +18,3 @@ Output variables for DNS and cluster names
 
 
 
-Ask ChatGPT
